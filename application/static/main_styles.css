@@ -1,10 +1,10 @@
 body {
-    background-color: linen;
+    background-color: lightslategrey;
     margin: 20px;
     font-family: Cambria, Verdana, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-h1 { color: maroon;
+h1 { color: green;
 }
 
 h2 { color: mediumvioletred;
